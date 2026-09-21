@@ -1,0 +1,16 @@
+# Large raw review pulls are not committed. They are reproducible: run
+# 02_code/collect_reviews.py and you will get the same data from the same
+# public API. A 500 row sample is committed so the file format is visible
+# without downloading 40MB.
+01_data/raw/reviews_raw.csv
+01_data/raw/*_reviews.csv
+
+# committed on purpose, small and the backbone of the study
+!01_data/raw/baseline_summaries.csv
+!01_data/raw/reviews_sample.csv
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
