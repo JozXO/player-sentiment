@@ -45,12 +45,19 @@ DEFAULT_APP_ID = 1172470  # Apex Legends, the deep-dive game
 # English is capped because 158k reviews would take hours and we do not need
 # them: a few thousand recent ones is plenty for a comparison. The smaller
 # languages are capped above their total review count, so we take all of them.
+# Caps are set so that every language's sample reaches back to the SAME date.
+# English and Simplified Chinese accumulate reviews far faster than the others,
+# so a shared cap gives English five months of history and Korean four years,
+# and comparing those two is not a comparison at all. These numbers are sized
+# to push the English and Simplified Chinese samples back roughly two years,
+# which is how far Traditional Chinese reaches. See the write-up: the naive
+# version of this produced a 31.9 point gap that is really 2.2 points.
 LANGUAGE_CAPS = {
-    "english": 15000,
-    "schinese": 15000,   # Simplified Chinese, mostly mainland players
-    "tchinese": 5000,    # Traditional Chinese, mostly Taiwan and Hong Kong
-    "japanese": 5000,
-    "koreana": 8000,
+    "english": 70000,
+    "schinese": 70000,   # Simplified Chinese, mostly mainland players
+    "tchinese": 20000,   # Traditional Chinese, mostly Taiwan and Hong Kong
+    "japanese": 20000,
+    "koreana": 20000,
 }
 
 PAGE_SIZE = 100          # Steam's maximum per request

@@ -49,16 +49,33 @@ choice to end on an honest negative result rather than a tidy one.
 
 ## Findings
 
-- The English versus Traditional Chinese review gap is a genre-wide pattern, with
-  a median of 18.2 points across 12 Western-developed live-service shooters.
-- It is not review culture. On Chinese-developed games the gap disappears
-  (Black Myth: Wukong +0.7 points, Counter-Strike 2 Simplified Chinese -3.1).
-- It is not localisation. Under 0.4% of negative reviews in any language mention
-  translation.
-- It is not sample composition. The gap survives controlling for playtime and
-  widens with it, from 14.3 points under 20 hours to 31.4 points past 500.
-- It cannot be diagnosed from review text. 68 to 79% of negative reviews match no
-  topic in any language, and the median Traditional Chinese negative review is 10
-  characters long.
+Based on 218,380 Apex Legends reviews plus summary data for 14 games in 7
+languages. All comparisons use the window all five languages cover
+(July 2024 to September 2026) with the July 2024 review bomb removed.
 
-Read the full write-up at `docs/index.html`.
+- **Not review culture.** On Chinese-developed games the English versus
+  Traditional Chinese gap disappears (Black Myth: Wukong +0.7 points,
+  Counter-Strike 2 Simplified Chinese -3.1). Across 12 Western live-service
+  shooters the median gap is 18.2 points.
+- **Not localisation.** Under 0.1% of negative reviews in any language mention
+  translation.
+- **A review bomb was faking one of the gaps.** July 2024 spiked every language
+  at once, hardest in Simplified Chinese at 14.9x normal volume and 9% positive.
+  Removing it drops the Simplified Chinese gap from 20.8 points to 4.1, and
+  inverts Korean from 3.3 to -0.9.
+- **Two gaps survive.** Traditional Chinese at 23.1 points and Japanese at 18.1.
+- **Not sample composition.** Holding playtime constant, the Traditional Chinese
+  gap runs +9.6 under 20 hours to +25.4 between 100 and 500. Japanese starts at
+  +1.1, not distinguishable from zero, and reaches +20.0 past 500 hours: a clean
+  late-souring curve.
+- **It cannot be diagnosed from review text.** 73 to 77% of negative reviews
+  match no topic in any language, and the median Traditional Chinese negative
+  review is 10 characters long against 53 for English.
+
+The same question answered four ways, depending on how the window is handled:
+31.9 points with no control, 2.2 with a 5-month shared window, 20.8 with a
+2-year one, 4.1 once the review bomb comes out. The window has to be justified,
+not just applied.
+
+Read the full write-up at `docs/index.html`, or live at
+https://jozxo.github.io/player-sentiment/

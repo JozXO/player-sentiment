@@ -1,0 +1,17 @@
+band,language,gap,ci_low,ci_high,n,significant
+<20h,schinese,-5.5,-6.9,-4.1,6809,False
+<20h,tchinese,9.6,5.0,14.2,472,True
+<20h,japanese,1.1,-4.2,6.4,345,False
+<20h,koreana,-0.4,-6.1,5.3,287,False
+20-100h,schinese,-1.0,-2.2,0.2,8132,False
+20-100h,tchinese,18.1,14.1,22.1,615,True
+20-100h,japanese,12.3,8.0,16.6,515,True
+20-100h,koreana,0.6,-4.3,5.5,358,False
+100-500h,schinese,5.2,4.1,6.3,12204,True
+100-500h,tchinese,25.4,22.7,28.1,1299,True
+100-500h,japanese,17.1,13.9,20.3,995,True
+100-500h,koreana,-3.8,-7.5,-0.1,660,False
+500h+,schinese,6.0,4.9,7.1,18850,True
+500h+,tchinese,21.8,19.7,23.9,2397,True
+500h+,japanese,20.0,17.6,22.4,1751,True
+500h+,koreana,-1.1,-5.1,2.9,630,False
