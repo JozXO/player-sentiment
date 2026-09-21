@@ -1,0 +1,99 @@
+app_id,game_name_expected,game_name_confirmed,language,total_reviews,total_positive,total_negative,positive_rate,review_score,review_score_desc
+1172470,Apex Legends,Apex Legends™,all,1070020,725223,344797,0.6778,5,Mixed
+1172470,Apex Legends,Apex Legends™,english,450786,345080,105706,0.7655,6,Mostly Positive
+1172470,Apex Legends,Apex Legends™,schinese,270591,120829,149762,0.4465,5,Mixed
+1172470,Apex Legends,Apex Legends™,tchinese,35278,14132,21146,0.4006,5,Mixed
+1172470,Apex Legends,Apex Legends™,japanese,13100,6556,6544,0.5005,5,Mixed
+1172470,Apex Legends,Apex Legends™,koreana,18112,13012,5100,0.7184,6,Mostly Positive
+1172470,Apex Legends,Apex Legends™,russian,114328,86914,27414,0.7602,6,Mostly Positive
+2073850,THE FINALS,THE FINALS,all,276557,216327,60230,0.7822,6,Mostly Positive
+2073850,THE FINALS,THE FINALS,english,158198,127274,30924,0.8045,8,Very Positive
+2073850,THE FINALS,THE FINALS,schinese,25720,17235,8485,0.6701,5,Mixed
+2073850,THE FINALS,THE FINALS,tchinese,2115,1214,901,0.574,5,Mixed
+2073850,THE FINALS,THE FINALS,japanese,1229,760,469,0.6184,5,Mixed
+2073850,THE FINALS,THE FINALS,koreana,4990,3219,1771,0.6451,5,Mixed
+2073850,THE FINALS,THE FINALS,russian,27873,20596,7277,0.7389,6,Mostly Positive
+2767030,Marvel Rivals,Marvel Rivals,all,417639,315534,102105,0.7555,6,Mostly Positive
+2767030,Marvel Rivals,Marvel Rivals,english,301741,231164,70577,0.7661,6,Mostly Positive
+2767030,Marvel Rivals,Marvel Rivals,schinese,18293,10468,7825,0.5722,5,Mixed
+2767030,Marvel Rivals,Marvel Rivals,tchinese,2594,1415,1179,0.5455,5,Mixed
+2767030,Marvel Rivals,Marvel Rivals,japanese,966,521,445,0.5393,5,Mixed
+2767030,Marvel Rivals,Marvel Rivals,koreana,2171,1618,553,0.7453,6,Mostly Positive
+2767030,Marvel Rivals,Marvel Rivals,russian,13144,8902,4242,0.6773,5,Mixed
+730,Counter-Strike 2,Counter-Strike 2,all,9870325,8474812,1395513,0.8586,8,Very Positive
+730,Counter-Strike 2,Counter-Strike 2,english,2617714,2250624,367090,0.8598,8,Very Positive
+730,Counter-Strike 2,Counter-Strike 2,schinese,1413296,1258464,154832,0.8904,8,Very Positive
+730,Counter-Strike 2,Counter-Strike 2,tchinese,43754,33612,10142,0.7682,6,Mostly Positive
+730,Counter-Strike 2,Counter-Strike 2,japanese,11362,9394,1968,0.8268,8,Very Positive
+730,Counter-Strike 2,Counter-Strike 2,koreana,26054,20843,5211,0.8,6,Mostly Positive
+730,Counter-Strike 2,Counter-Strike 2,russian,2720774,2232613,488161,0.8206,8,Very Positive
+1085660,Destiny 2,Destiny 2,all,662074,520114,141960,0.7856,6,Mostly Positive
+1085660,Destiny 2,Destiny 2,english,389590,309766,79824,0.7951,6,Mostly Positive
+1085660,Destiny 2,Destiny 2,schinese,98465,70248,28217,0.7134,6,Mostly Positive
+1085660,Destiny 2,Destiny 2,tchinese,4825,3393,1432,0.7032,6,Mostly Positive
+1085660,Destiny 2,Destiny 2,japanese,1105,754,351,0.6824,5,Mixed
+1085660,Destiny 2,Destiny 2,koreana,14554,10878,3676,0.7474,6,Mostly Positive
+1085660,Destiny 2,Destiny 2,russian,45430,31974,13456,0.7038,6,Mostly Positive
+2357570,Overwatch 2,Overwatch®,all,423759,134528,289231,0.3175,4,Mostly Negative
+2357570,Overwatch 2,Overwatch®,english,170426,69788,100638,0.4095,5,Mixed
+2357570,Overwatch 2,Overwatch®,schinese,145471,11289,134182,0.0776,1,Overwhelmingly Negative
+2357570,Overwatch 2,Overwatch®,tchinese,6075,1084,4991,0.1784,1,Overwhelmingly Negative
+2357570,Overwatch 2,Overwatch®,japanese,4311,1756,2555,0.4073,5,Mixed
+2357570,Overwatch 2,Overwatch®,koreana,6078,2973,3105,0.4891,5,Mixed
+2357570,Overwatch 2,Overwatch®,russian,21344,8579,12765,0.4019,5,Mixed
+578080,PUBG BATTLEGROUNDS,PUBG: BATTLEGROUNDS,all,2758092,1668611,1089481,0.605,5,Mixed
+578080,PUBG BATTLEGROUNDS,PUBG: BATTLEGROUNDS,english,451284,299168,152116,0.6629,5,Mixed
+578080,PUBG BATTLEGROUNDS,PUBG: BATTLEGROUNDS,schinese,1402437,714724,687713,0.5096,5,Mixed
+578080,PUBG BATTLEGROUNDS,PUBG: BATTLEGROUNDS,tchinese,32706,16462,16244,0.5033,5,Mixed
+578080,PUBG BATTLEGROUNDS,PUBG: BATTLEGROUNDS,japanese,6029,3278,2751,0.5437,5,Mixed
+578080,PUBG BATTLEGROUNDS,PUBG: BATTLEGROUNDS,koreana,150796,107248,43548,0.7112,6,Mostly Positive
+578080,PUBG BATTLEGROUNDS,PUBG: BATTLEGROUNDS,russian,345994,246845,99149,0.7134,6,Mostly Positive
+359550,Rainbow Six Siege,Tom Clancy's Rainbow Six Siege,all,1554658,1276679,277979,0.8212,8,Very Positive
+359550,Rainbow Six Siege,Tom Clancy's Rainbow Six Siege,english,813246,666567,146679,0.8196,8,Very Positive
+359550,Rainbow Six Siege,Tom Clancy's Rainbow Six Siege,schinese,199083,150625,48458,0.7566,6,Mostly Positive
+359550,Rainbow Six Siege,Tom Clancy's Rainbow Six Siege,tchinese,18113,13670,4443,0.7547,6,Mostly Positive
+359550,Rainbow Six Siege,Tom Clancy's Rainbow Six Siege,japanese,5603,3949,1654,0.7048,6,Mostly Positive
+359550,Rainbow Six Siege,Tom Clancy's Rainbow Six Siege,koreana,52584,41843,10741,0.7957,6,Mostly Positive
+359550,Rainbow Six Siege,Tom Clancy's Rainbow Six Siege,russian,105900,87534,18366,0.8266,8,Very Positive
+2507950,Delta Force,Delta Force,all,195753,113032,82721,0.5774,5,Mixed
+2507950,Delta Force,Delta Force,english,68979,45235,23744,0.6558,5,Mixed
+2507950,Delta Force,Delta Force,schinese,61772,25016,36756,0.405,5,Mixed
+2507950,Delta Force,Delta Force,tchinese,1252,470,782,0.3754,4,Mostly Negative
+2507950,Delta Force,Delta Force,japanese,1680,786,894,0.4679,5,Mixed
+2507950,Delta Force,Delta Force,koreana,4515,2847,1668,0.6306,5,Mixed
+2507950,Delta Force,Delta Force,russian,8598,4608,3990,0.5359,5,Mixed
+2074920,THE FIRST DESCENDANT,The First Descendant,all,112432,64485,47947,0.5735,5,Mixed
+2074920,THE FIRST DESCENDANT,The First Descendant,english,51157,32601,18556,0.6373,5,Mixed
+2074920,THE FIRST DESCENDANT,The First Descendant,schinese,17298,4792,12506,0.277,4,Mostly Negative
+2074920,THE FIRST DESCENDANT,The First Descendant,tchinese,2277,984,1293,0.4321,5,Mixed
+2074920,THE FIRST DESCENDANT,The First Descendant,japanese,945,475,470,0.5026,5,Mixed
+2074920,THE FIRST DESCENDANT,The First Descendant,koreana,7086,3447,3639,0.4865,5,Mixed
+2074920,THE FIRST DESCENDANT,The First Descendant,russian,10727,6251,4476,0.5827,5,Mixed
+440,Team Fortress 2,Team Fortress 2,all,1251584,1139468,112116,0.9104,8,Very Positive
+440,Team Fortress 2,Team Fortress 2,english,742527,668368,74159,0.9001,8,Very Positive
+440,Team Fortress 2,Team Fortress 2,schinese,19591,17899,1692,0.9136,8,Very Positive
+440,Team Fortress 2,Team Fortress 2,tchinese,6384,5698,686,0.8925,8,Very Positive
+440,Team Fortress 2,Team Fortress 2,japanese,1907,1689,218,0.8857,8,Very Positive
+440,Team Fortress 2,Team Fortress 2,koreana,13684,12143,1541,0.8874,8,Very Positive
+440,Team Fortress 2,Team Fortress 2,russian,180257,165860,14397,0.9201,8,Very Positive
+230410,Warframe,Warframe,all,677631,595096,82535,0.8782,8,Very Positive
+230410,Warframe,Warframe,english,301428,276967,24461,0.9188,8,Very Positive
+230410,Warframe,Warframe,schinese,133128,95223,37905,0.7153,6,Mostly Positive
+230410,Warframe,Warframe,tchinese,9440,8017,1423,0.8493,8,Very Positive
+230410,Warframe,Warframe,japanese,1964,1623,341,0.8264,8,Very Positive
+230410,Warframe,Warframe,koreana,11208,9900,1308,0.8833,8,Very Positive
+230410,Warframe,Warframe,russian,77584,67828,9756,0.8743,8,Very Positive
+1203220,NARAKA BLADEPOINT,NARAKA: BLADEPOINT,all,302863,222039,80824,0.7331,6,Mostly Positive
+1203220,NARAKA BLADEPOINT,NARAKA: BLADEPOINT,english,23866,19352,4514,0.8109,8,Very Positive
+1203220,NARAKA BLADEPOINT,NARAKA: BLADEPOINT,schinese,252577,181555,71022,0.7188,6,Mostly Positive
+1203220,NARAKA BLADEPOINT,NARAKA: BLADEPOINT,tchinese,4040,3004,1036,0.7436,6,Mostly Positive
+1203220,NARAKA BLADEPOINT,NARAKA: BLADEPOINT,japanese,379,246,133,0.6491,5,Mixed
+1203220,NARAKA BLADEPOINT,NARAKA: BLADEPOINT,koreana,1107,894,213,0.8076,8,Very Positive
+1203220,NARAKA BLADEPOINT,NARAKA: BLADEPOINT,russian,5936,4552,1384,0.7668,6,Mostly Positive
+2358720,Black Myth Wukong,Black Myth: Wukong,all,1212135,1169520,42615,0.9648,9,Overwhelmingly Positive
+2358720,Black Myth Wukong,Black Myth: Wukong,english,87215,81802,5413,0.9379,8,Very Positive
+2358720,Black Myth Wukong,Black Myth: Wukong,schinese,1056432,1023929,32503,0.9692,9,Overwhelmingly Positive
+2358720,Black Myth Wukong,Black Myth: Wukong,tchinese,10883,10136,747,0.9314,8,Very Positive
+2358720,Black Myth Wukong,Black Myth: Wukong,japanese,669,522,147,0.7803,6,Mostly Positive
+2358720,Black Myth Wukong,Black Myth: Wukong,koreana,3749,3339,410,0.8906,8,Very Positive
+2358720,Black Myth Wukong,Black Myth: Wukong,russian,13516,12247,1269,0.9061,8,Very Positive
