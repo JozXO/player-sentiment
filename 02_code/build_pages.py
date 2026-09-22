@@ -49,8 +49,8 @@ head = f"""<!doctype html>
 <meta property="og:description" content="{DESC}">
 <meta property="og:url" content="{SITE}">
 <meta property="og:image" content="{SITE}og-image.png">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
+<meta property="og:image:width" content="2400">
+<meta property="og:image:height" content="1260">
 <meta property="og:image:alt" content="The same game, rated 36 points apart. English 76.6% positive, Traditional Chinese 40.1% positive.">
 
 <meta name="twitter:card" content="summary_large_image">
