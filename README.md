@@ -13,9 +13,17 @@ Needs Python 3. No packages to install, standard library only.
 ```powershell
 cd "D:\Portfolio Project\player-sentiment\02_code"
 
-py collect_baseline.py     # ~2 minutes, 14 games x 7 languages
-py collect_reviews.py      # ~15 minutes, full Apex Legends review pull
+py collect_baseline.py     # 14 games x 7 languages, review summaries
+py collect_reviews.py      # full Apex Legends review pull, per language
+py analyse_apex.py         # every figure in the write-up
+py build_pages.py          # rebuilds docs/index.html from 04_writeup/
 ```
+
+`build_pages.py` exists because the two copies of the write-up need different
+shapes. `04_writeup/index.html` is authored as a fragment for a host that
+supplies its own document skeleton. `docs/index.html` is served directly, so it
+needs a real `<head>` with Open Graph tags, or LinkedIn and Slack show a bare
+URL with no preview. Run it after editing the write-up.
 
 Both write into `01_data/raw/`. Both are safe to stop with Ctrl+C and re-run:
 `collect_reviews.py` skips anything already on disk.
